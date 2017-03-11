@@ -1,0 +1,11 @@
+{
+  "name": "railbot",
+  "version": "1.0.0",
+  "description": "railbot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sai krishna cherukupally",
+  "license": "ISC"
+}
